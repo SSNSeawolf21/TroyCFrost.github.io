@@ -78,7 +78,7 @@ Welcome to my portfolio repository! I am **Troy C. Frost**, a Machine Learning a
 
 ## **Contact Information**
 
-- **Email:** [troycfrost@example.com](mailto:troycfrost@gmail.com)  
+- **Email:** troycfrost@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/troy-c-frost-b250331a6  
 - **GitHub:** [github.com/troycfrost](https://github.com/troycfrost)
 
