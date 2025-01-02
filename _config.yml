@@ -4,3 +4,4 @@ description: |
   Welcome to my GitHub page! I am passionate about machine learning, AI, and technology. Explore my projects, repositories, and insights.
 show_downloads: true
 theme: jekyll-theme-cayman
+sass: _sass
